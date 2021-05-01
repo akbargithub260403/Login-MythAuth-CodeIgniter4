@@ -1,4 +1,13 @@
 # CodeIgniter 4 Framework
+# Login System menggunakan Codeigniter 4
+<p>Sistem dari Login Aplikasi ini menggunakan Library Myth-Auth dari https://github.com/lonnieezell/myth-auth.</p>
+<p><b>NOTE: lakukan perintah berikut</b></p>
+<ul>
+	<li>Ubah file env copy menjadi .env</li>
+	<li>masukan konfigurasi database anda di file .env</li>
+	<li>ketikan perintah di terminal anda <i><b>php spark migrate -all</b></i></li>
+</ul>
+
 
 ## What is CodeIgniter?
 
